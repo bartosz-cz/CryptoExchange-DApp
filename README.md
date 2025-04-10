@@ -1,6 +1,6 @@
-# xChange - Frontend Preview
+# Exchange - Frontend Preview
 
-Welcome to the frontend preview of xChange, a React-based cryptocurrency exchange application designed for the Ethereum blockchain. This preview demonstrates the interactive features of the application, showcasing how users can manage their crypto assets with ease and precision.
+Welcome to the frontend preview of a React-based cryptocurrency exchange application designed for the Ethereum blockchain. This preview demonstrates the interactive features of the application, showcasing how users can manage their crypto assets with ease and precision.
 
 ## Features Overview
 
